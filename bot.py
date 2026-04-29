@@ -12,7 +12,7 @@ BOT_TOKEN = '8626144455:AAE4OmHD5UW_hQdcTL9ZgeieW0gLHcFMjvk'
 ADMIN_ID = 1924277344
 UPI_ID = 'vipseller@nyes'
 CONTACT_USERNAME = 'your_username'  # Apna username daalo
-MINI_APP_URL = os.getenv('MINI_APP_URL', 'https://your-site.netlify.app')
+MINI_APP_URL = os.getenv('https://niroplay.netlify.app/')
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
